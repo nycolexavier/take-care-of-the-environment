@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+img {
+    cursor: pointer;
+}
+
+#game-container {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    height: 10rem;
+    /* position: absolute; */
+}
